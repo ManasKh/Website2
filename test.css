@@ -1,0 +1,132 @@
+.nav {
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px solid black; */
+    gap: 20px }
+.img {  
+    height: 30px;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+ }
+.list {
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px solid black; */
+}
+.content {
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid black; */
+}
+.main2 {
+    display: flex;
+    margin: auto;
+    padding: 50px;
+}
+.content2 {
+    display: flex;
+}
+.imgsqr {
+    margin: auto;
+}
+.eppisom {
+    margin: 30px 89px;
+    /* position: relative; */
+    top: -146px;
+    padding: 28px;
+}
+.shadowbox {
+    margin: 30px;
+    padding: 24px;
+    width: 250px;
+    height: 350px;
+    /* border: 1px solid black; */
+    border-radius: 40px;
+    box-shadow: 1px 1px 2px 0px;
+}
+img {
+    height: 200px;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.content3 {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding: 12px;
+}
+.con1 {
+    margin: 30px;
+    padding: 24px;
+    width: 250px;
+    height: 350px;
+    /* border: 1px solid black; */
+    border-radius: 40px;
+    box-shadow: 1px 1px 2px 0px;
+}
+.con2 {
+    margin: 34px;
+    padding: 24px;
+    position: relative;
+    height: 350px;
+    width: 230px;
+    top: 150px;
+    /* border: 1px solid black; */
+    border-radius: 40px;
+    box-shadow: 1px 1px 2px 0px;
+}
+.content4 {
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+    padding: 36px;
+    gap: 50px;
+}
+.cont1 {
+    margin: auto;
+    padding: 50px;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.cont2 img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.section5 h2 {
+    text-align: center;
+}
+.content5 {
+    display: flex;
+    gap: 60px;
+    margin: 56px;
+    padding: 11px;
+}
